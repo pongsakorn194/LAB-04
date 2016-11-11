@@ -35,7 +35,7 @@
 ####บันทึกผลการทดลอง
 <hr> เมื่อ run แล้วจะขึ้นคำว่า hello press any key to continue สามารถกด enter เพื่อปิดได้เลย
 <hr>
-![]()
+![](https://github.com/pongsakorn194/LAB-04/blob/master/imgs/photo1.png?raw=true)
 
 แก้ไขโปรแกรม ให้เป็นดังรูปด้านล่างนี้    
 
@@ -45,7 +45,7 @@
  * การรันแล้วทำให้หน้าจอ console ยังคงแสดงผลค้างอยู่นั้น ให้เลือกเมนู Debug -> Start Without Debugging (Ctrl+F5) มิฉะนั้น หน้าจอ console จะหายไปอย่างรวดเร็ว
 <hr> เมื่อ run แล้วจะขึ้นคำว่า hello World press any key to continue สามารถกด enter เพื่อปิดได้เลย
 <hr>
-![]()
+![](https://github.com/pongsakorn194/LAB-04/blob/master/imgs/photo2.png?raw=true)
 
 
 ### คำถาม 4.1 
@@ -68,7 +68,7 @@
 <hr> เมื่อ run แล้วจะขึ้นคำว่า hello 
 <hr> press any key to continue สามารถกด enter เพื่อปิดได้เลย
 <hr>
-![]()
+![](https://github.com/pongsakorn194/LAB-04/blob/master/imgs/photo3.png?raw=true)
 
 แก้ไขโปรแกรม ให้เป็นดังรูปด้านล่างนี้
 
@@ -79,7 +79,7 @@
 <hr> world
 <hr> press any key to continue สามารถกด enter เพื่อปิดได้เลย
 <hr>
-![]()
+![](https://github.com/pongsakorn194/LAB-04/blob/master/imgs/photo4.png?raw=true)
 
 ###คำถาม 4.2
 
